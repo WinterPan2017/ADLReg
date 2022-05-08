@@ -1,8 +1,5 @@
 # Winter’s Solutions for Learn2Reg 2021
 
-# code
-Coming soon ...
-
 # overview
 
 Here we briefly introduce our solutions for Learn2Reg 2021. For task 1 and task 3, we proposed a deep learning-based registration algorithm named "Attention-based Deep
